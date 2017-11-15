@@ -29,6 +29,9 @@ Pod::Spec.new do |s|
                    模块间统一跳转协议
                    模块间统一跳转协议
                    模块间统一跳转协议
+                   模块间统一跳转协议
+                   模块间统一跳转协议
+                   模块间统一跳转协议
                    DESC
 
   s.homepage     = "https://devzou.com"
@@ -83,7 +86,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://gitub.com/lianyu125/UnifiedJump.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/lianyu125/UnifiedJump.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
